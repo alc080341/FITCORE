@@ -2,8 +2,8 @@
 
 public class Workout
 {
-    public string Title { get; }
-    private List<Exercise> Exercises { get; }
+    public string Title { get; set;}
+    public List<Exercise> Exercises { get; set; }
 
     public Workout(string title)
     {
@@ -11,12 +11,11 @@ public class Workout
         Exercises = new List<Exercise>();
     }
 
-
     public void AddExercise(string exerciseName = "NO EXERCISE NAME", string exerciseDescription = "NO DESCRIPTION")
     {
         this.Exercises.Add(new Exercise(exerciseName, exerciseDescription));
     }
-    public void GetListOfExercises(int programID)    
+    public List<Exercise> GetListOfExercises(int programID)    
     {
         // ### SAMPLE TEST WORKOUT - THIS WILL COME FROM DB EVENTUALLY. HOWEVER, THIS IS JUST FOR TESTING ENVIRONMENT
         switch (programID)
@@ -30,6 +29,7 @@ public class Workout
                 this.AddExercise("Squats", "Lower body exercise that targets legs.");
             break;
         }
+        return Exercises;
     }
 
 }

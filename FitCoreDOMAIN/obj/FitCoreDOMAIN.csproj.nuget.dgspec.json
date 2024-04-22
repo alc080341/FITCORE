@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chamb\\repos\\FitCore\\FitCoreDOMAIN\\FitCoreDOMAIN.csproj": {}
+    "c:\\Users\\chamb\\repos\\FitCore\\FitCoreDOMAIN\\FitCoreDOMAIN.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chamb\\repos\\FitCore\\FitCoreDOMAIN\\FitCoreDOMAIN.csproj": {
+    "c:\\Users\\chamb\\repos\\FitCore\\FitCoreDOMAIN\\FitCoreDOMAIN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chamb\\repos\\FitCore\\FitCoreDOMAIN\\FitCoreDOMAIN.csproj",
+        "projectUniqueName": "c:\\Users\\chamb\\repos\\FitCore\\FitCoreDOMAIN\\FitCoreDOMAIN.csproj",
         "projectName": "FitCoreDOMAIN",
-        "projectPath": "C:\\Users\\chamb\\repos\\FitCore\\FitCoreDOMAIN\\FitCoreDOMAIN.csproj",
+        "projectPath": "c:\\Users\\chamb\\repos\\FitCore\\FitCoreDOMAIN\\FitCoreDOMAIN.csproj",
         "packagesPath": "C:\\Users\\chamb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chamb\\repos\\FitCore\\FitCoreDOMAIN\\obj\\",
+        "outputPath": "c:\\Users\\chamb\\repos\\FitCore\\FitCoreDOMAIN\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chamb\\AppData\\Roaming\\NuGet\\NuGet.Config"

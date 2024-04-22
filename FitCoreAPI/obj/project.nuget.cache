@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6wFdy0aswo7WOs6+qTR9IQ99ew3OL7NmAb06DvUO8tL1pvNo1DZeENRHFiZSLcEdQzd6q9cFpEnUN7oolLfyrw==",
+  "dgSpecHash": "8Z0ossafjxyKyTSPcFJQe9IEMu668w2XpkOPf6nVjZvV80PUycwom1f/c+wlQv5mqPvd+1GoTfSoYWS0VFbcXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\chamb\\repos\\FitCore\\FitCoreAPI\\FitCoreAPI.csproj",
+  "projectFilePath": "c:\\Users\\chamb\\repos\\FitCore\\FitCoreAPI\\FitCoreAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chamb\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\chamb\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

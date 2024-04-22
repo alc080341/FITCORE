@@ -1,0 +1,12 @@
+c:\Users\chamb\repos\FitCore\FitCoreDOMAIN\bin\Debug\net8.0\FitCoreDOMAIN.deps.json
+c:\Users\chamb\repos\FitCore\FitCoreDOMAIN\bin\Debug\net8.0\FitCoreDOMAIN.dll
+c:\Users\chamb\repos\FitCore\FitCoreDOMAIN\bin\Debug\net8.0\FitCoreDOMAIN.pdb
+c:\Users\chamb\repos\FitCore\FitCoreDOMAIN\obj\Debug\net8.0\FitCoreDOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\chamb\repos\FitCore\FitCoreDOMAIN\obj\Debug\net8.0\FitCoreDOMAIN.AssemblyInfoInputs.cache
+c:\Users\chamb\repos\FitCore\FitCoreDOMAIN\obj\Debug\net8.0\FitCoreDOMAIN.AssemblyInfo.cs
+c:\Users\chamb\repos\FitCore\FitCoreDOMAIN\obj\Debug\net8.0\FitCoreDOMAIN.csproj.CoreCompileInputs.cache
+c:\Users\chamb\repos\FitCore\FitCoreDOMAIN\obj\Debug\net8.0\FitCoreDOMAIN.sourcelink.json
+c:\Users\chamb\repos\FitCore\FitCoreDOMAIN\obj\Debug\net8.0\FitCoreDOMAIN.dll
+c:\Users\chamb\repos\FitCore\FitCoreDOMAIN\obj\Debug\net8.0\refint\FitCoreDOMAIN.dll
+c:\Users\chamb\repos\FitCore\FitCoreDOMAIN\obj\Debug\net8.0\FitCoreDOMAIN.pdb
+c:\Users\chamb\repos\FitCore\FitCoreDOMAIN\obj\Debug\net8.0\ref\FitCoreDOMAIN.dll

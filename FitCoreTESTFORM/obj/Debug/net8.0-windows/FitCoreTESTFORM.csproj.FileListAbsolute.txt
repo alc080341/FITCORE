@@ -12,3 +12,4 @@ c:\Users\chamb\repos\FitCore\FitCoreTESTFORM\obj\Debug\net8.0-windows\refint\Fit
 c:\Users\chamb\repos\FitCore\FitCoreTESTFORM\obj\Debug\net8.0-windows\FitCoreTESTFORM.pdb
 c:\Users\chamb\repos\FitCore\FitCoreTESTFORM\obj\Debug\net8.0-windows\FitCoreTESTFORM.genruntimeconfig.cache
 c:\Users\chamb\repos\FitCore\FitCoreTESTFORM\obj\Debug\net8.0-windows\ref\FitCoreTESTFORM.dll
+c:\Users\chamb\repos\FitCore\FitCoreTESTFORM\obj\Debug\net8.0-windows\FitCoreTESTFORM.sourcelink.json
