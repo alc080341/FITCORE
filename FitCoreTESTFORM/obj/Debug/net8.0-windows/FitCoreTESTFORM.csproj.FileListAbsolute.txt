@@ -1,0 +1,14 @@
+c:\Users\chamb\repos\FitCore\FitCoreTESTFORM\bin\Debug\net8.0-windows\FitCoreTESTFORM.exe
+c:\Users\chamb\repos\FitCore\FitCoreTESTFORM\bin\Debug\net8.0-windows\FitCoreTESTFORM.deps.json
+c:\Users\chamb\repos\FitCore\FitCoreTESTFORM\bin\Debug\net8.0-windows\FitCoreTESTFORM.runtimeconfig.json
+c:\Users\chamb\repos\FitCore\FitCoreTESTFORM\bin\Debug\net8.0-windows\FitCoreTESTFORM.dll
+c:\Users\chamb\repos\FitCore\FitCoreTESTFORM\bin\Debug\net8.0-windows\FitCoreTESTFORM.pdb
+c:\Users\chamb\repos\FitCore\FitCoreTESTFORM\obj\Debug\net8.0-windows\FitCoreTESTFORM.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\chamb\repos\FitCore\FitCoreTESTFORM\obj\Debug\net8.0-windows\FitCoreTESTFORM.AssemblyInfoInputs.cache
+c:\Users\chamb\repos\FitCore\FitCoreTESTFORM\obj\Debug\net8.0-windows\FitCoreTESTFORM.AssemblyInfo.cs
+c:\Users\chamb\repos\FitCore\FitCoreTESTFORM\obj\Debug\net8.0-windows\FitCoreTESTFORM.csproj.CoreCompileInputs.cache
+c:\Users\chamb\repos\FitCore\FitCoreTESTFORM\obj\Debug\net8.0-windows\FitCoreTESTFORM.dll
+c:\Users\chamb\repos\FitCore\FitCoreTESTFORM\obj\Debug\net8.0-windows\refint\FitCoreTESTFORM.dll
+c:\Users\chamb\repos\FitCore\FitCoreTESTFORM\obj\Debug\net8.0-windows\FitCoreTESTFORM.pdb
+c:\Users\chamb\repos\FitCore\FitCoreTESTFORM\obj\Debug\net8.0-windows\FitCoreTESTFORM.genruntimeconfig.cache
+c:\Users\chamb\repos\FitCore\FitCoreTESTFORM\obj\Debug\net8.0-windows\ref\FitCoreTESTFORM.dll
