@@ -18,8 +18,6 @@ public class FitnessProgramController : ControllerBase
     {
         FitCoreDOMAIN.Program program = new FitCoreDOMAIN.Program(1, 1);
         program.GetProgramWorksouts();
-        //return programe;
-        //programe.GetProgramWorksouts();
         string json = JsonSerializer.Serialize(program);    
         return program;    
     }

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "c:\\Users\\chamb\\repos\\FitCore\\FitIn-FE\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FitIn-FE.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FitIn-FE.props",
+      "PackagePath": "build\\FitIn-FE.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FitIn-FE.props",
+      "PackagePath": "buildMultiTargeting\\FitIn-FE.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FitIn-FE.props",
+      "PackagePath": "buildTransitive\\FitIn-FE.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

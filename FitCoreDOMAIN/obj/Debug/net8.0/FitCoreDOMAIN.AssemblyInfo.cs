@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FitCoreDOMAIN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d26e9576687b562a90a32f9bc961ff3d24252ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fd41fea718b0d3501e5370575f5d959d47a5a10")]
 [assembly: System.Reflection.AssemblyProductAttribute("FitCoreDOMAIN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FitCoreDOMAIN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
