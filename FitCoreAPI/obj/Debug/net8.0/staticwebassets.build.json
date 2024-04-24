@@ -1,11 +1,19 @@
 {
   "Version": 1,
-  "Hash": "h0icNG5xpCgL4cOgF+8UpXgomkHy0ngnvYvaftu08fE=",
+  "Hash": "ZCgWilsJMGHq4RcrHEODafSLoR5IZQWRbm4Rh6sp/N4=",
   "Source": "FitCoreAPI",
   "BasePath": "_content/FitCoreAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FitCoreAPI\\wwwroot",
+      "Source": "FitCoreAPI",
+      "ContentRoot": "c:\\Users\\chamb\\repos\\FitCore\\FitCoreAPI\\wwwroot\\",
+      "BasePath": "_content/FitCoreAPI",
+      "Pattern": "**"
+    }
+  ],
   "Assets": []
 }

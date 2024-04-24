@@ -33,3 +33,4 @@ c:\Users\chamb\repos\FitCore\FitCoreAPI\obj\Debug\net8.0\refint\FitCoreAPI.dll
 c:\Users\chamb\repos\FitCore\FitCoreAPI\obj\Debug\net8.0\FitCoreAPI.pdb
 c:\Users\chamb\repos\FitCore\FitCoreAPI\obj\Debug\net8.0\FitCoreAPI.genruntimeconfig.cache
 c:\Users\chamb\repos\FitCore\FitCoreAPI\obj\Debug\net8.0\ref\FitCoreAPI.dll
+c:\Users\chamb\repos\FitCore\FitCoreAPI\bin\Debug\net8.0\FitCoreAPI.staticwebassets.runtime.json

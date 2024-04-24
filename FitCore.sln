@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitCoreDOMAIN", "FitCoreDOM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitCoreTESTFORM", "FitCoreTESTFORM\FitCoreTESTFORM.csproj", "{A22CD046-2A1B-487B-B2CE-2EA4A275C295}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitIn-FE", "FitIn-FE\FitIn-FE.csproj", "{E47BB5D8-2014-49DB-B197-AAFFD680A7FF}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,9 +30,5 @@ Global
 		{A22CD046-2A1B-487B-B2CE-2EA4A275C295}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A22CD046-2A1B-487B-B2CE-2EA4A275C295}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A22CD046-2A1B-487B-B2CE-2EA4A275C295}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E47BB5D8-2014-49DB-B197-AAFFD680A7FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E47BB5D8-2014-49DB-B197-AAFFD680A7FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E47BB5D8-2014-49DB-B197-AAFFD680A7FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E47BB5D8-2014-49DB-B197-AAFFD680A7FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
