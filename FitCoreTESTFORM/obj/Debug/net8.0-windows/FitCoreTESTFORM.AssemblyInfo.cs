@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FitCoreTESTFORM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fd41fea718b0d3501e5370575f5d959d47a5a10")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c903f791c730970667de7b91ae961186bed2a6ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("FitCoreTESTFORM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FitCoreTESTFORM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

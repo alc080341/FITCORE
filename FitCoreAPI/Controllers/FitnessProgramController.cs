@@ -1,5 +1,4 @@
 using Microsoft.AspNetCore.Mvc;
-using System.Text.Json;
 namespace FitCoreAPI.Controllers;
 
 [ApiController]
@@ -14,9 +13,9 @@ public class FitnessProgramController : ControllerBase
     }
 
     [HttpGet(Name = "GetProgram")]
-    public FitCoreDOMAIN.Program Get()
+    public FitCoreDOMAIN.FitnessProgram Get()
     {
-        FitCoreDOMAIN.Program program = new FitCoreDOMAIN.Program(1, 1);
+        FitCoreDOMAIN.FitnessProgram program = new FitCoreDOMAIN.FitnessProgram(1, 1, "Today's fitness program");
         program.GetProgramWorksouts();
         return program;    
     }
