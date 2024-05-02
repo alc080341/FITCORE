@@ -3,8 +3,8 @@
 public class User
 {
 
-    public int UserID { get; }
-    public string Username { get; }
+    private int UserID { get; }
+    private string Username { get; }
 
     public User(int userID, string username)
     {

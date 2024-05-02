@@ -1,10 +1,8 @@
-﻿using System.Security.Cryptography.X509Certificates;
-
-namespace FitCoreDOMAIN;
+﻿namespace FitCoreDOMAIN;
 
 // ### PROGRAM IS A SET OF WORKOUTS - FOR EXAMPLE, CARIO WORKOUT, FOLLOWED BY RESISTANCE, FOLLOWED BY STRETCHING
 // THIS GIVES US THE FLEXBILITY OF TAILORING WORKOUTS TO THE NEEDS OF THE CLIENT 
-public class FitnessProgram
+public class FitnessProgram: IFitnessProgram
 {
     public int UserID { get; }
     public int ProgramID { get; }

@@ -6,7 +6,7 @@ public class Exercise
     public string Description { get; set; }
     public string? Equipment { get; set;}
     public string? Difficulty { get; set;}
-
+    
     public Exercise(string name, string description)
     {
         Name = name;

@@ -13,9 +13,9 @@ public class FitnessProgramController : ControllerBase
     }
 
     [HttpGet(Name = "GetProgram")]
-    public FitCoreDOMAIN.FitnessProgram Get()
+    public FitCoreDOMAIN.IFitnessProgram Get()
     {
-        FitCoreDOMAIN.FitnessProgram program = new FitCoreDOMAIN.FitnessProgram(1, 1, "Today's fitness program");
+        FitCoreDOMAIN.IFitnessProgram program = new FitCoreDOMAIN.FitnessProgram(1, 1, "Today's fitness program");
         program.GetProgramWorksouts();
         return program;    
     }
