@@ -13,10 +13,14 @@ public class FitnessProgramController : ControllerBase
     }
 
     [HttpGet(Name = "GetProgram")]
-    public FitCoreDOMAIN.IFitnessProgram Get()
+
+    public IActionResult GetProgram()
     {
         FitCoreDOMAIN.IFitnessProgram program = new FitCoreDOMAIN.FitnessProgram(1, 1, "Today's fitness program");
+
+        // Fetch workouts for the program
         program.GetProgramWorksouts();
-        return program;    
+
+        return Ok(program); // Return the workouts as JSON
     }
 }
